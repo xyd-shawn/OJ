@@ -3,3 +3,6 @@
 
 # vim
 *.~
+
+# mac os
+.DS_Store
