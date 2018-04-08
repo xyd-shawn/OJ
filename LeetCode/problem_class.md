@@ -23,8 +23,17 @@ problem 122;
 
 ---
 ## 5. divide and conquer
+### 5.1. binary search
+problem 34;  
+problem 69;  
+problem 74;  
+
+### 5.2.
+problem 4;  
+problem 53;  
 
 ---
 ## 6. dynamic programming
 problem 5;  
-problem 32;
+problem 32;  
+problem 120;  
