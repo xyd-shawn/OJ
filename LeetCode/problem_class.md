@@ -46,12 +46,17 @@ problem 53;
 ## 6. dynamic programming
 problem 5;  
 problem 32;  
-problem 120;
+problem 62;  
+problem 72;  
+problem 120;  
+problem 139;  
+problem 140;  
 
 ---
 ## 7. graph
 ### 7.1. dfs
 problem 78;  
 problem 90;  
+problem 140;  
 
 ### 7.2. bfs
