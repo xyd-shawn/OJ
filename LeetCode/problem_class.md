@@ -13,6 +13,7 @@ problem 2;
 problem 20;  
 problem 84;  
 problem 150;
+problem 456;  
 
 ### 3.2. heap
 
@@ -25,8 +26,11 @@ problem 90;
 ## 4. greedy
 problem 45;  
 problem 55;  
+problem 76;  
 problem 121;  
 problem 122;  
+problem 123;  
+problem 650;  
 
 ---
 ## 5. divide and conquer
@@ -49,8 +53,10 @@ problem 32;
 problem 62;  
 problem 72;  
 problem 120;  
+problem 123;  
 problem 139;  
 problem 140;  
+problem 300;  
 
 ---
 ## 7. graph
@@ -60,3 +66,8 @@ problem 90;
 problem 140;  
 
 ### 7.2. bfs
+
+---
+## 8. STL
+### 8.1. search
+problem 300;  
